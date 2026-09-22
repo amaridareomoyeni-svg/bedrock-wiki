@@ -1,3 +1,4 @@
+<img width="374" height="247" alt="no-signal-stand-by" src="https://github.com/user-attachments/assets/bf992f4f-3c72-42a7-883f-4327cde4360a" />
 ---
 title: Intro to Scripting
 category: General
